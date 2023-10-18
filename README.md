@@ -1,4 +1,19 @@
-# Power-BI
+# Power-BI 📊
+<div align="center">
+  <img align="center" width="17%" src="https://user-images.githubusercontent.com/96964513/276088382-2ac869c4-7eaa-49c7-8712-10159083a8dc.png">
+</a>
+  <img align="center" width="17%" src="https://user-images.githubusercontent.com/96964513/276088681-ab1e79cb-c32c-4244-8407-055af724e13c.png">
+</a>
+  <img align="center" width="17%" src="https://user-images.githubusercontent.com/96964513/276088853-8556794c-8694-4201-b86c-abcab100e189.png">
+</a>
+  <img align="center" width="17%" src="https://user-images.githubusercontent.com/96964513/276088984-b174cf9e-470b-41e8-b559-75fc2ee07273.png">
+</a>
+</a>
+  <img align="center" width="17%" src="https://user-images.githubusercontent.com/96964513/276089142-84aff5af-a871-4480-bf82-c1d05ecf7fc0.png">
+</a>
+  
+</div>
+
 Taller de Power BI 📊 : Aprende a organizar tus datos 🎯 por @jlianacastillo
 
 # Accede a las  100 🚀 slides del taller aqui 
