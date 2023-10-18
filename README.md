@@ -22,17 +22,6 @@ Bienvenido al taller de Power BI, este taller ha sido realizado con la finalidad
 
 🎯 [Diapositiva en extension .ppt](https://docs.google.com/presentation/d/1Y19hx53EgShNnkW4w3RmeOviKngL3G68/edit?usp=sharing&ouid=116709244817325455320&rtpof=true&sd=true) <br>
 📚 [Diapositivas en extension .pdf](https://drive.google.com/file/d/1th0xDyFrdl3ILDZGrIXuKq4lAO6fUlLv/view?usp=sharing)
-# Topics
-* Introducción a data (Datos, Informacion, Conocimiento)
-* Uso y concepto de Power BI
-* Arquitectura (Free, Pro, Premium)
-* Descarga de Power BI Desktop
-* Estructura ETL
-* Transformacion en Excel
-* Transformacion con Power Query
-* DataViz
-* Dashboard
-* Power BI
 
 # Excel a utilizar sin ETL 👩‍💻
 
