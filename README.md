@@ -23,15 +23,8 @@ Bienvenido al taller de Power BI, este taller ha sido realizado con la finalidad
 📚 [Diapositivas en extension .pdf](https://drive.google.com/file/d/194h7StaC29Wo0PZALTFjpVLYfNiKcdMi/view?usp=sharing)
 
 # Data set sin ETL 👩‍💻
-
 Este es el excel de peliculas que vamos a desarrollar para la extracción de nuestra fuente de información
 
 Tomado de 🍿 [Vandal RANDOM "Las 30 películas más taquilleras de la historia y su recaudación"](https://vandal.elespanol.com/reportaje/random-las-30-peliculas-mas-taquilleras-de-la-historia-y-su-recaudacion)
 
 Verificado la puntuacion y reseña de peliculas en 📽 [Filmaffinity](https://www.filmaffinity.com/co/advsearch.php)
-
-Descarga aquí el excel que contiene nuestra fuente de datos recoletado 👉🏻 [DataSet sin ETL](https://docs.google.com/spreadsheets/d/1tWqJIxTjCZSckilN5QD3mzxgUof_P1W_/edit?usp=sharing&ouid=116709244817325455320&rtpof=true&sd=true)
-
-# DataSet final a llevar a Power BI ✅
-
-Descarga aquí nuestro data set final 👉🏻 [DataSet con ETL](https://docs.google.com/spreadsheets/d/1a5zVQBSc3EpUH_nVHt2j3Ndqv6Ba_x58/edit?usp=sharing&ouid=116709244817325455320&rtpof=true&sd=true)
