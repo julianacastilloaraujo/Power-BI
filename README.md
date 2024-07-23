@@ -17,7 +17,7 @@ Taller de Power BI 📊 : Aprende a organizar tus datos 🎯 por @julianacastill
 
 # Accede a las  100 🚀 slides del taller aqui 
 
-Bienvenido al taller de Power BI, este taller ha sido realizado con la finalidad de que domines herramientas nuevas de visualización, a su vez varia fuente de información ha sido tomada de cursos, bootcamps y webinas. Espero que estas slides y topics sean increibles para tu proceso de aprendizaje como data analytic 
+Bienvenido al taller de Power BI, este taller ha sido realizado con la finalidad de que domines herramientas nuevas de visualización, a su vez varia fuente de información ha sido tomada de cursos, bootcamps y webinas. Espero que estas slides y topics sean increibles para tu proceso de aprendizaje como data analytic.
 
 🎯 [Diapositiva en extension .ppt](https://docs.google.com/presentation/d/1jRApyJY4zoZGisrlKq1Pnb2SV1QdpHOK/edit?usp=sharing&ouid=101757647096398765195&rtpof=true&sd=true) <br>
 📚 [Diapositivas en extension .pdf](https://drive.google.com/file/d/194h7StaC29Wo0PZALTFjpVLYfNiKcdMi/view?usp=sharing)
