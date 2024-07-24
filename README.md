@@ -25,5 +25,4 @@ Bienvenido al taller de Power BI, este taller ha sido realizado con la finalidad
 Este es el excel de peliculas que vamos a desarrollar para la extracción de nuestra fuente de información.
 
 Tomado de 🍿 [Vandal RANDOM "Las 30 películas más taquilleras de la historia y su recaudación"](https://vandal.elespanol.com/reportaje/random-las-30-peliculas-mas-taquilleras-de-la-historia-y-su-recaudacion)
-
 Verificado la puntuacion y reseña de peliculas en 📽 [Filmaffinity](https://www.filmaffinity.com/co/advsearch.php)
