@@ -23,7 +23,7 @@ Bienvenido al taller de Power BI, este taller ha sido realizado con la finalidad
 📚 [Diapositivas en extension .pdf](https://drive.google.com/file/d/194h7StaC29Wo0PZALTFjpVLYfNiKcdMi/view?usp=sharing)
 
 # Data set sin ETL 👩‍💻
-Este es el excel de peliculas que vamos a desarrollar para la extracción de nuestra fuente de información
+Este es el excel de peliculas que vamos a desarrollar para la extracción de nuestra fuente de información.
 
 Tomado de 🍿 [Vandal RANDOM "Las 30 películas más taquilleras de la historia y su recaudación"](https://vandal.elespanol.com/reportaje/random-las-30-peliculas-mas-taquilleras-de-la-historia-y-su-recaudacion)
 
