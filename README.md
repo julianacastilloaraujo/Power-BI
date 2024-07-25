@@ -12,7 +12,6 @@
   <img align="center" width="17%" src="https://user-images.githubusercontent.com/96964513/276089142-84aff5af-a871-4480-bf82-c1d05ecf7fc0.png">
 </a>
 </div>
-
 Taller de Power BI 📊 : Aprende a organizar tus datos 🎯 por @julianacastilloaraujo
 
 # Accede a las  100 🚀 slides del taller aqui 
