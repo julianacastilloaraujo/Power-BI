@@ -11,14 +11,15 @@
 </a>
   <img align="center" width="17%" src="https://user-images.githubusercontent.com/96964513/276089142-84aff5af-a871-4480-bf82-c1d05ecf7fc0.png">
 </a>
-</div>
-Dashboard para Analitica Predictiva
 
 # Objetivo del analisis 🚀
 Evaluar el desempeño económico de las películas más taquilleras de la historia, enfocándose en la relación entre recaudación, presupuesto, duración, audiencia y género, a fin de identificar patrones relevantes para la toma de decisiones en la industria cinematográfica.
 
 # 📅 Filtro por año de lanzamiento
 Se visualizan datos entre los años 1997 y 2022, permitiendo seleccionar un rango específico. Para este análisis, se filtraron datos del año 2018.
+
+# 👥 Audiencia total acumulada
+106 mil espectadores, dentro de un rango máximo de 213 mil.
 
 # Data set sin ETL 👩‍💻
 
