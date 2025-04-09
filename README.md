@@ -12,10 +12,13 @@
   <img align="center" width="17%" src="https://user-images.githubusercontent.com/96964513/276089142-84aff5af-a871-4480-bf82-c1d05ecf7fc0.png">
 </a>
 </div>
-Taller de Power BI 📊 : Aprende a organizar tus datos 🎯 por <strong>@julianacastilloaraujo</strong>  <br>
+Dashboard para Analitica Predictiva
 
 # Objetivo del analisis 🚀
 Evaluar el desempeño económico de las películas más taquilleras de la historia, enfocándose en la relación entre recaudación, presupuesto, duración, audiencia y género, a fin de identificar patrones relevantes para la toma de decisiones en la industria cinematográfica.
+
+# 📅 Filtro por año de lanzamiento
+Se visualizan datos entre los años 1997 y 2022, permitiendo seleccionar un rango específico. Para este análisis, se filtraron datos del año 2018.
 
 # Data set sin ETL 👩‍💻
 
