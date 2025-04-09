@@ -26,6 +26,13 @@ Se visualizan datos entre los años 1997 y 2022, permitiendo seleccionar un rang
 🎬 Acción (mayor representación en duración y audiencia) <br>
 👽 Ciencia Ficción
 
+# 🧠 Conclusiones para negocio
+* La inversión en películas de acción y ciencia ficción tiene un alto retorno. 
+* Duración y género son variables influyentes en la audiencia total.
+* El análisis de recaudación por año permite identificar tendencias de mercado y preferencias del público.
+* Se recomienda a productores y plataformas de streaming priorizar lanzamientos con estas características para maximizar ingresos.
+
+
 # Data set sin ETL 👩‍💻
 
 Este es el excel de peliculas que vamos a desarrollar para la extracción de nuestra fuente de información.
