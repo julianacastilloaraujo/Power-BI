@@ -1,4 +1,5 @@
 # Power-BI 📊
+📊 Power BI Workshop – clean dashboards, ETL and data visualization practice.
 <div align="center">
   <img align="center" width="17%" src="https://user-images.githubusercontent.com/96964513/276088382-2ac869c4-7eaa-49c7-8712-10159083a8dc.png">
 </a>
